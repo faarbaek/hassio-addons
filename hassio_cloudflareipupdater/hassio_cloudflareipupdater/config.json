@@ -7,7 +7,7 @@
   "url": "https://github.com/davidramosweb/hassio_cloudflareipupdater",
   "startup": "system",
   "boot": "auto",
-
+  "init": "false",
   "options": {
     "zone": "",
     "host": "",
